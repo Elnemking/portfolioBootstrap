@@ -1,0 +1,68 @@
+.section-one{
+    background-color:#1ABC9C;
+
+}
+.div-img{
+    display: flex;
+    justify-content: center;
+}
+.div-img-one{
+    margin-top: 30px;
+    color: white;
+}
+
+.start-one{
+ 
+    font-size: 1.75em;
+}
+
+.start{
+    font-size: 4.5rem;
+}
+.div-p{
+    font-size: 1.5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.div-sc-two{
+
+    display: flex;
+    justify-content: center;
+}
+
+.h-two{
+    color: #2C3E50;
+    font-size: 3rem;
+    
+}
+
+.section-two {
+    margin-top: 20px;
+}
+
+
+.section-four{
+    background-color:#1ABC9C;
+}
+
+.section-five{
+    background-color: #2C3E50;
+    color: white;
+  
+   
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.h4{
+    margin-top: 60px;
+}
+
+.img-div-one {
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+  
